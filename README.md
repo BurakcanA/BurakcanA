@@ -4,6 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm graduated Computer Programming and Management Informations Systems.\
 🌱 &nbsp;I'm on track for learning more about Web development, Backend-end Logic, APIs and servers .\
@@ -12,9 +14,11 @@
 ✉️ &nbsp;You can shoot me an email at Burakcanaytac@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://burakcanaytac.com/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/BurakcanA/BurakcanA/Main/Assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/BurakcanA/BurakcanA/Main/Assets/Night-Coding.gif" align="right"/>
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
